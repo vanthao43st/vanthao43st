@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **University of Engineering and Technology - Vietnam National University**
 
-- 🌱 I’m currently learning **SpringBoot Framework**
+- 🌱 I’m currently learning **Computer Vision and NLP**
 
-- 📫 How to reach me **vanthao432003@gmail.com**
+- 📫 How to reach me **nvthao43.hnvn@gmail.com**
 
 - ⚡ Fun fact **I like Coding, Listening to music**
 
